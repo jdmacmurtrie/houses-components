@@ -5,6 +5,6 @@ import Neighborhood from './components/Neighborhood.js';
 
 
 ReactDOM.render(
-  <Neighborhood data={data}/>,
+  <Neighborhood />,
   document.getElementById('app')
 );
