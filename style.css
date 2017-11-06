@@ -1,0 +1,21 @@
+body {
+  background-color: #004fff;
+}
+
+.goodStuff {
+  background-color: white;
+  margin: 25%;
+  margin-top: 5%;
+  padding: 10%;
+  padding-top: 2%;
+}
+
+.box {
+  border: 2px black dashed;
+  padding: 10px;
+}
+
+.circle {
+  border: 2px purple solid;
+  border-radius: 50px;
+}
